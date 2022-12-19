@@ -1,7 +1,7 @@
 {
   "name": "todolist-v1",
   "version": "1.0.0",
-  "description": "",
+  "description": "TODO List website hosted on RENDER",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,5 +14,13 @@
     "express": "^4.18.2",
     "lodash": "^4.17.21",
     "mongoose": "^6.8.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hardik-ui/todolist-v1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hardik-ui/todolist-v1/issues"
+  },
+  "homepage": "https://github.com/hardik-ui/todolist-v1#readme"
 }
